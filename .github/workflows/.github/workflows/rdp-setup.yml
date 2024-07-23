@@ -1,5 +1,4 @@
 name: RDP Setup
-
 on: [push]
 
 jobs:
